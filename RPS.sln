@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS", "RPS\RPS.csproj", "{B7A946B2-5F28-43F5-9FC3-CB8E649DBBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS.Tests", "RPS.Tests\RPS.Tests.csproj", "{F86BDFCB-A942-443C-8BD5-0E5C6652C3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A946B2-5F28-43F5-9FC3-CB8E649DBBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A946B2-5F28-43F5-9FC3-CB8E649DBBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A946B2-5F28-43F5-9FC3-CB8E649DBBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A946B2-5F28-43F5-9FC3-CB8E649DBBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86BDFCB-A942-443C-8BD5-0E5C6652C3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86BDFCB-A942-443C-8BD5-0E5C6652C3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86BDFCB-A942-443C-8BD5-0E5C6652C3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86BDFCB-A942-443C-8BD5-0E5C6652C3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E9E5318-A758-4A44-B254-22471C2E03EE}
+	EndGlobalSection
+EndGlobal
